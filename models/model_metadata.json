@@ -1,0 +1,35 @@
+{
+    "n_clusters": 4,
+    "feature_names": [
+        "Education_ord",
+        "Income",
+        "Age",
+        "Customer_Tenure",
+        "Recency",
+        "Total_Spend",
+        "NumWebPurchases",
+        "NumCatalogPurchases",
+        "NumStorePurchases",
+        "NumDealsPurchases",
+        "NumWebVisitsMonth",
+        "Kidhome",
+        "Teenhome",
+        "Total_Campaign_Accepted",
+        "Family_Size",
+        "Digital_Engagement",
+        "Spend_per_Purchase",
+        "Total_Purchases"
+    ],
+    "metrics": {
+        "silhouette": 0.16608911428323703,
+        "calinski_harabasz": 496.4285801339431,
+        "davies_bouldin": 1.9149056993180409
+    },
+    "cluster_distribution": {
+        "0": 519,
+        "1": 583,
+        "2": 624,
+        "3": 514
+    },
+    "training_date": "2026-01-01T07:48:42.920813"
+}
