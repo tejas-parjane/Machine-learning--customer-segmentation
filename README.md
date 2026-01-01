@@ -142,25 +142,17 @@ joblib==1.3.1          # Model serialization
 ##  Repository Structure
 
 ```
-├── notebooks/
-│   └── Machine_learning_driven_customer_segmentation.ipynb
-├── data/
-│   └── marketing_campaign.csv (downloaded via Kaggle API)
+
+├── Machine_learning_driven_customer_segmentation.ipynb
 ├── models/
 │   ├── kmeans_model.pkl
 │   ├── scaler.pkl
 │   └── model_metadata.json
-├── docs/
-│   ├── Complete_Project_Report.pdf
-│   ├── Literature_Review.pdf
-│   └── Methodology.pdf
 ├── results/
 │   ├── cluster_profiles.csv
 │   ├── customer_segments_with_strategies.csv
 │   └── ab_test_results.csv
-├── requirements.txt
 ├── README.md
-└── LICENSE
 ```
 
 ---
