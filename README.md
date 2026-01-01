@@ -153,6 +153,7 @@ joblib==1.3.1          # Model serialization
 │   ├── customer_segments_with_strategies.csv
 │   └── ab_test_results.csv
 ├── README.md
+├── LICENSE
 ```
 
 ---
